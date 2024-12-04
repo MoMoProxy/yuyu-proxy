@@ -20,6 +20,7 @@ Go to the official Yuyu Proxy website at <a href="https://www.yuyuproxy.com">www
 
 <h3>Enter the URL</h3>
 Enter the desired URL (e.g., google.com) into the search box or use the provided quick links to access popular sites like DuckDuckGo, Google, YouTube, Facebook, Wikipedia, or Reddit.
+<img src="https://momoproxy.com/_next/image?url=https%3A%2F%2Fmomoproxy.com%2Fimage%2F20241129_1732850703176.png&w=3840&q=75">
 
 <h3>Click “Go” and Wait</h3>
 Click the "Go" button and wait for the page to load. The website will appear with the proxy server’s IP address, masking your real IP.
